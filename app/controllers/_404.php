@@ -1,7 +1,6 @@
 <?php
 
 # 404 class
-# 404 class
 
 class _404 extends Controller
 {
